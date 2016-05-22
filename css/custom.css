@@ -326,6 +326,7 @@ td {
 
 .footer {
     height: auto;
+    width:100%;
     padding-left: 10px;
     padding-right: 10px;
     font-family: 'Poiret One', 'Open Sans', sans-serif;
